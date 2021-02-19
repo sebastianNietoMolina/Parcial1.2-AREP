@@ -35,7 +35,7 @@ Ahora lo más importante es que al moemto de ingresar los datos en la url tiene 
 https://parcial1fachadaarepsebastinto.herokuapp.com/
 ```
 
-debe ingresar datos para que quede de la siguiente forma:
+debe ingresar datos para que quede de la siguiente forma, el valor del numero que quieres ingresar va alado del num y el tipo sen, cos o tan va alado de tipo.
 ```
 https://parcial1fachadaarepsebastinto.herokuapp.com/trigonometrica?num=6&tipo=sen
 ```
